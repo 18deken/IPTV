@@ -28,14 +28,10 @@ http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5hopFI6.png",azteca noticias
-
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
-
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0blCT4e.png", az corazon
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hzXrv6/FOX.png",Fox
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
@@ -88,7 +84,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(03)/i
 #EXTINF:-1 tvg-logo="https://imgur.com/zZJ4dXQ.png",Discovery Channel
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fq3LoR/home_and.png",Discovery Home & Healt
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(03)/index.m3u8
 
@@ -104,12 +99,10 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(0
 #EXTINF:-1 tvg-logo="http://www.unicable.tv/wp-content/themes/Newspaper/images/small_logo.png",Unicable
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png", MasChic
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jNRvNm/h2.png",H2
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",TLC
@@ -124,20 +117,16 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZAT
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png/revision/latest?cb=20140506215312", Discovery Science
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/cPO38R/natgeo.png",NatGeo
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",NatGeo Wild
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geyWv6/animal_planet.png",Animal Planet
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png",Lifetime
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png",Discovery Kids
@@ -218,27 +207,20 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/Strea
 #EXTINF:-1 tvg-logo="https://imgur.com/PkrtxHN.png",Cinemax
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/CdZQVe8.png",Cinecanal
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MhdnevY.png", Golden
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/kicLX61.png",I*SAT
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/FXM.svg/revision/latest?cb=20161008111035",FXM
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/FQWiZ3K.png",Space
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png",Claro Sports
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(03)/index.m3u8
@@ -288,19 +270,14 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/Strea
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png", Fox Premium Series
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iCu72m/fox_movies.png" ,Fox Premium Movies
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png", Fox Premium Action
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hVnGv6/fox_cinema.png", Fox Premium Cinema
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bLVKF6/Fox_classics.png",Fox Premium Classics
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8
