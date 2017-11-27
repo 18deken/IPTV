@@ -282,10 +282,10 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stre
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bLVKF6/Fox_classics.png",Fox Premium Classics
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/j4kY8R/foxfam.png", Fox Premium Family
+#EXTINF:-1 tvg-logo="https://image.ibb.co/j4kY8R/foxfam.png", Fox Family
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jWmvNm/fox_comedy.png", Fox Premium Comedy
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jWmvNm/fox_comedy.png", Fox Comedy
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dZRJa6/hbo.png", HBO
@@ -305,6 +305,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/S
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/nb0phm/Max_logo.png", MAX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/knC22m/max_prime.png", MAX Prime
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/knC22m/max_prime.png", MAX Prime HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(01)/index.m3u8
