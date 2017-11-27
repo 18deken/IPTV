@@ -33,7 +33,6 @@ http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-logo="https://imgur.com/0blCT4e.png", az corazon
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hzXrv6/FOX.png",Fox
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
 
