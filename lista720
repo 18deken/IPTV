@@ -12,6 +12,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/Strea
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kcZoa6/5.png", Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg", Telemundo 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/h19jhm/gala.png", Gala tv
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 
