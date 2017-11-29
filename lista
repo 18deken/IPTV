@@ -24,6 +24,12 @@ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/n71Z06/once.png", Canal Once TV México
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c6o3tR/22.png", Canal 22.1
+https://livestream-f.akamaihd.net/i/16458468_4574813_11109512_1@39006/master.m3u8?__b__=596&dw=14400&hdnea=st=1511919243~exp=1511921043~acl=/i/16458468_4574813_11109512_1@39006/*~hmac=9fa06779a61bcf26864552b40cc9a173a6420116cfe098940d390227223d62e3&__a__=off
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c6o3tR/22.png", Canal 22.2
+https://livestream-f.akamaihd.net/i/16458468_6932143_11893817_1@39006/master.m3u8?__b__=1032&dw=14400&hdnea=st=1511919421~exp=1511921221~acl=/i/16458468_6932143_11893817_1@39006/*~hmac=e5d1a478304f23b5fb54ec976e93d052a4a246e7d94c360b689ddf8d45a99632&__a__=off
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dKOWv6/azmundo.png", Az Mundo
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZMUNDO_HD)/index.m3u8
 
@@ -32,12 +38,6 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&r
 
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/medium.58ca099958cf2_a.png.ccb00d63c20893d971161165fcf61bd0.png", a+
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://www.avaya.com/es/images/milenio_logo_430x450.jpg", Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/5hopFI6.png",azteca noticias
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0blCT4e.png", Az Corazón
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/index.m3u8
@@ -359,3 +359,15 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vUgTtqZ.png",Ritmoson
 http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/d4SSnm/foro_tv.png",Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.avaya.com/es/images/milenio_logo_430x450.jpg", Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5hopFI6.png",azteca noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTING:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png", MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
