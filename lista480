@@ -12,23 +12,20 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/Strea
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kcZoa6/5.png", Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gaFbxm/azteca7.png", Azteca 7
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cqpzpb/az_7.png", Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gaFbxm/azteca7.png", Azteca 7 Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA7)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg", Telemundo 51
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/h19jhm/gala.png", Gala tv
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/playlist.m3u8
+http://149.56.26.6:25461/live/dreamscanales/123456/1660.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/n71Z06/once.png", Canal Once TV México
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c6o3tR/22.png", Canal 22.1
-https://livestream-f.akamaihd.net/i/16458468_4574813_11109512_1@39006/master.m3u8?__b__=596&dw=14400&hdnea=st=1511919243~exp=1511921043~acl=/i/16458468_4574813_11109512_1@39006/*~hmac=9fa06779a61bcf26864552b40cc9a173a6420116cfe098940d390227223d62e3&__a__=off
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c6o3tR/22.png", Canal 22.2
-https://livestream-f.akamaihd.net/i/16458468_6932143_11893817_1@39006/master.m3u8?__b__=1032&dw=14400&hdnea=st=1511919421~exp=1511921221~acl=/i/16458468_6932143_11893817_1@39006/*~hmac=e5d1a478304f23b5fb54ec976e93d052a4a246e7d94c360b689ddf8d45a99632&__a__=off
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dKOWv6/azmundo.png", Az Mundo
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZMUNDO_HD)/Stream(01)/index.m3u8
@@ -369,5 +366,5 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://imgur.com/5hopFI6.png",azteca noticias
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTING:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png", MVS Noticias
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png", MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
