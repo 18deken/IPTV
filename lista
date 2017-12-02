@@ -369,5 +369,5 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://imgur.com/5hopFI6.png",azteca noticias
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTING:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png", MVS Noticias
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png", MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
