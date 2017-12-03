@@ -6,11 +6,17 @@ http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png", el trece
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mBudFG/imagen.png", Imagen TV
+http://142.0.43.4:25461/live/televall/televall-11/396.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kyTya6/estrellas_lat.png", Las Estrellas Lationamerica
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kcZoa6/5.png", Canal 5
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kcZoa6/5.png", Canal 5 Op.2
+http://149.56.26.6:25461/live/dreamscanales/123456/1684.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/cqpzpb/az_7.png", Azteca 7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
@@ -23,6 +29,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/h19jhm/gala.png", Gala tv
 http://149.56.26.6:25461/live/dreamscanales/123456/1660.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/n71Z06/once.png", Canal Once TV México
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
@@ -139,7 +146,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Str
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png",Lifetime
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(02)/index.m3u8
+http://142.0.43.4:25461/live/televall/televall-11/391.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png",Discovery Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
@@ -272,6 +279,15 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png",ESPN 3
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gJcJhw/fs1.png",Fox Sports MX 1
+http://142.0.43.4:25461/live/televall/televall-11/412.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png",Fox Sports MX 2
+http://142.0.43.4:25461/live/televall/televall-11/411.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png",Fox Sports MX 3
+http://142.0.43.4:25461/live/televall/televall-11/410.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png",WIN Sports
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/Stream(02)/index.m3u8
