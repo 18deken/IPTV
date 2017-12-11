@@ -387,3 +387,24 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24607q.png" group-title="Radio", La Mejor 90.7
 http://14013.live.streamtheworld.com:3690/XHTIMAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24551q.png" group-title="Radio", La Invasora 94.5
+http://50.7.29.178:9308/;
+
+#EXTINF:-1 tvg-logo="http://www.mmradio.com/players/src/img/logo_largo/ca_953.png" group-title="Radio", La Caliente 95.3
+http://19473.live.streamtheworld.com/LACALIENTE_SC?tsp=1512966109363
+
+#EXTINF:-1 tvg-logo="http://www.exafm.com/img/logo_exa.png" group-title="Radio", Exa 91.7
+http://node-03.strongradiohost.com/y42nqzyp2d5tv?rj-ttl=5&rj-token=AAABYEPb_XNIVI4edTBGLQjBeWqAH0TDSC8uMfl6C8QC8RCLXohDDQ
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24584q.png" group-title="Radio", Invasora 99.7
+http://50.7.29.178:9306/;
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24589q.png" group-title="Radio", Opus 94.5
+http://node-01.strongradiohost.com/s81webepgq5tv?rj-ttl=5&rj-token=AAABYEPfWkgCsxjUeysPEvkT1CBETjcnG9uHSLMsWtF4PQuyW_nQgA
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s44443q.png" group-title="Radio", Radio Latina 104.5
+http://15383.live.streamtheworld.com:3690/XLTNFM_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24558q.png" group-title="Radio", Pulsar 107.3
+http://50.7.98.234:9306/;
