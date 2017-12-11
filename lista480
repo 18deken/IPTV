@@ -408,3 +408,9 @@ http://15383.live.streamtheworld.com:3690/XLTNFM_SC?ua=RadioTime&ttag=RadioTime&
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24558q.png" group-title="Radio", Pulsar 107.3
 http://50.7.98.234:9306/;
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21677q.png" group-title="Radio", Rock 94.7 WOZZ
+http://107.22.125.82/midwest-wozzfmaac-ibc2
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/a38214q.png" group-title="Radio", GotRadio Rock
+http://edge1.peta.live365.net/b85426_64aac
