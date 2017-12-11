@@ -384,3 +384,6 @@ http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&re
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png" group-title="Noticias", MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24607q.png" group-title="Radio", La Mejor 90.7
+http://14013.live.streamtheworld.com:3690/XHTIMAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
