@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas
+#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Canal 2
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
 #EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno
