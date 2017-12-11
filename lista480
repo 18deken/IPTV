@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", Canal 2
+#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png", el trece
+#EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mBudFG/imagen.png", Imagen TV
+#EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV
 http://142.0.43.4:25461/live/televall/televall-11/396.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kyTya6/estrellas_lat.png", Las Estrellas Lationamerica
@@ -146,7 +146,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Str
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png",Lifetime
-http://142.0.43.4:25461/live/televall/televall-11/391.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png",Discovery Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
