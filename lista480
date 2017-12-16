@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a1/ROHFinalBattle15.gif" group-title="PPV",ROH Final Battle
+#EXTINF:-1,tvg-logo="http://lwosonprowrestling.ms.lastwordonsports.com/wp-content/uploads/sites/15/2017/12/fb.png" group-title="PPV",ROH Final Battle
 https://ssh101.com/m3u8/dyn/putagorda/index.m3u8
 
 #EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas
