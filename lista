@@ -414,3 +414,9 @@ http://107.22.125.82/midwest-wozzfmaac-ibc2
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/a38214q.png" group-title="Radio", GotRadio Rock
 http://edge1.peta.live365.net/b85426_64aac
+
+#EXTINF:-1,tvg-logo="hhttps://image.tmdb.org/t/p/w185/l9Hi8z2E7fPxFlLe355viO6QS6J.jpg" group-title="Peliculas",Más Allá de la Montaña
+https://www1186.playercdn.net/88/0/YJI8XPv1PFuvwTdCdUv4RA/1513580426/171215/789FMHZO5IW5FAP5GZ5NL.mp4
+
+#EXTINF:-1,tvg-logo="hhttps://image.tmdb.org/t/p/w185/sf5Wcva7SVyF7dxx2ZzzK64nLUa.jpg" group-title="Peliculas", Me gusta, pero me asusta
+https://www1185.playercdn.net/88/3/U6_OGpC6_hGSPJKhqJd1GA/1513580552/171215/788FMHZMRD4AMY7X7PQ9I.mp4
