@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a1/ROHFinalBattle15.gif" group-title="PPV",ROH Final Battle
+https://ssh101.com/m3u8/dyn/putagorda/index.m3u8
+
 #EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
