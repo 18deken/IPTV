@@ -1,13 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-
 #EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
 #EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV
 http://142.0.43.4:25461/live/televall/televall-11/396.m3u8
+
+#EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV Op.2
+http://142.0.43.4:25461/live/televall/televall-11/696.m3u8
+
+#EXTINF:-1,tvg-id="52 MX" tvg-logo="http://www.televalltv.net/gallery/52mx_thumb.png" group-title="TV Abierta", 52 MX
+http://142.0.43.4:25461/live/televall/televall-11/667.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kyTya6/estrellas_lat.png" group-title="TV Abierta", Las Estrellas Lationamerica
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/Stream(01)/index.m3u8
@@ -16,10 +22,10 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/Strea
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
 #EXTINF:-1,tvg-id="Canal 5" tvg-logo="https://image.ibb.co/kcZoa6/5.png" group-title="TV Abierta", Canal 5 Op.2
-http://149.56.26.6:25461/live/dreamscanales/123456/1684.m3u8
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
 #EXTINF:-1,tvg-id="Azteca 7" tvg-logo="https://image.ibb.co/cqpzpb/az_7.png" group-title="TV Abierta", Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+http://142.0.43.4:25461/live/televall/televall-11/457.m3u8
 
 #EXTINF:-1, tvg-id="Azteca 7" tvg-logo="https://image.ibb.co/gaFbxm/azteca7.png" group-title="TV Abierta", Azteca 7 Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA7)/index.m3u8
@@ -28,8 +34,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA7)/index.m3u8
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 #EXTINF:-1,tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV
-http://149.56.26.6:25461/live/dreamscanales/123456/1660.m3u8
-
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 
 #EXTINF:-1,tvg-id="Once TV" tvg-logo="https://image.ibb.co/n71Z06/once.png" group-title="TV Abierta", Canal Once TV México
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
@@ -145,8 +150,14 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Str
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geyWv6/animal_planet.png" group-title="Entretenimiento",Animal Planet
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
+#EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
+
+#EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime Op.2
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+
+#EXTINF:-1,tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/135px-Food_Network.svg.png" group-title="Entretenimiento", Food Network
+http://142.0.43.4:25461/live/televall/televall-11/500.m3u8
 
 #EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
@@ -414,9 +425,3 @@ http://107.22.125.82/midwest-wozzfmaac-ibc2
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/a38214q.png" group-title="Radio", GotRadio Rock
 http://edge1.peta.live365.net/b85426_64aac
-
-#EXTINF:-1,tvg-logo="hhttps://image.tmdb.org/t/p/w185/l9Hi8z2E7fPxFlLe355viO6QS6J.jpg" group-title="Peliculas",Más Allá de la Montaña
-https://www1186.playercdn.net/88/0/YJI8XPv1PFuvwTdCdUv4RA/1513580426/171215/789FMHZO5IW5FAP5GZ5NL.mp4
-
-#EXTINF:-1,tvg-logo="hhttps://image.tmdb.org/t/p/w185/sf5Wcva7SVyF7dxx2ZzzK64nLUa.jpg" group-title="Peliculas", Me gusta pero me asusta
-https://www1185.playercdn.net/88/3/U6_OGpC6_hGSPJKhqJd1GA/1513580552/171215/788FMHZMRD4AMY7X7PQ9I.mp4
