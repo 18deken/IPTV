@@ -72,6 +72,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
 #EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
 
+#EXTINF:-1,tvg-id="City TV" tvg-logo="https://image.ibb.co/fbyZs6/city.png" group-title="Entretenimiento", CityTV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CITY_TV)/Stream(01)/index.m3u8
+
 #EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8
 
