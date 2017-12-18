@@ -306,6 +306,9 @@ http://142.0.43.4:25461/live/televall/televall-11/410.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png" group-title="Deportes",WIN Sports
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
 
+#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Deportes", WWE Network
+https://uk10.firstonetv.net:4434/hls/cdffb47d620b6a3976ef91ec56f4d4d9/1513606349/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3139352e3138312e3137302e33382f7032702f63643631663065613362353630613636356561383133646162323530356132662e6d3375383f73743d776558314f36324b2d5a4a345975494961733066547726653d31353133363230373439.m3u8
+
 #EXTINF:-1,tvg-id="Fox Premium Series (E)" tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/index.m3u8
 
