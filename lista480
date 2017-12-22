@@ -289,7 +289,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Str
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jKtQNm/udn.png" group-title="Deportes", Univision Deportes Network (UDN)
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
+https://hls.vaughnsoft.net/ord/live/live_psn85v/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
