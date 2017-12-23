@@ -72,8 +72,14 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 #EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="Entretenimiento",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
 #EXTINF:-1,tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="Entretenimiento", A3Series
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1,tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="Entretenimiento",TV3*
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
 
 #EXTINF:-1,tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
@@ -128,6 +134,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg" group-title="Infantil",Nick
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/556px-Paramount_Channel.svg.png/revision/latest?cb=20151009064853&path-prefix=es" group-title="Cine", Paramount Channel
 http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
@@ -186,6 +195,9 @@ http://142.0.43.4:25461/live/televall/televall-11/411.m3u8
 #EXTINF:-1,tvg-id="Fox Sports 3" tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png" group-title="Deportes",Fox Sports MX 3
 http://142.0.43.4:25461/live/televall/televall-11/410.m3u8
 
+#EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO
+http://jazoora.net:8000/live/Shahid1/Shahid1/3303.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dApRTR/MTV.png" group-title="Musica",MTV
 http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
 
@@ -218,6 +230,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kjJE06/mvs.png" group-title="Noticias", MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/y5vozsr.png" group-title="Noticias",Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24607q.png" group-title="Radio", La Mejor 90.7
 http://14013.live.streamtheworld.com:3690/XHTIMAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
