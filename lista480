@@ -60,7 +60,13 @@ http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/un
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox
+http://z1.iptvmanagerpro.com/stream_8_e1e22b4b3b9feefa49e0f1ac90060637_1513991435.m3u8
+
+#EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
+http://z1.iptvmanagerpro.com/stream_29_e3eb6de10f0aef6af5a98f7165338c6f_1513991435.m3u8
+
+#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 
 #EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony
@@ -125,6 +131,9 @@ http://142.0.43.4:25461/live/televall/televall-11/500.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network
 http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel
+http://z1.iptvmanagerpro.com/stream_20_06f9fe7c469d8820ec30eaf211cc818f_1513991435.m3u8
 
 #EXTINF:-1 tvg-logo="http://es.vector.me/files/images/7/7/778508/tiin.png" group-title="Infantil",Tiin
 http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
