@@ -217,6 +217,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN Op.2
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN Op.2
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/310.m3u8
 
 #EXTINF:-1,tvg-id="Univisión TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes",Univisión TDN
