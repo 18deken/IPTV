@@ -36,11 +36,17 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
 #EXTINF:-1,tvg-id=Telemundo" tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg" group-title="TV Abierta", Telemundo 51
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
+#EXTINF:-1,tvg-id=Telemundo" tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg" group-title="TV Abierta", Telemundo 51 Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/452.m3u8
+
 #EXTINF:-1,tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV
 http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 
 #EXTINF:-1,tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:-1,tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/159.m3u8
 
 #EXTINF:-1,tvg-id="Once TV" tvg-logo="https://image.ibb.co/n71Z06/once.png" group-title="TV Abierta", Canal Once TV México
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
@@ -75,6 +81,9 @@ http://192.95.33.104:25461/live/roku/wanherchannels/75.m3u8
 #EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
 
+#EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/79.m3u8
+
 #EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
 
@@ -87,17 +96,29 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 
+#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/77.m3u8
+
 #EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Sony
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
+
+#EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Sony Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/78.m3u8
+
+#EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2240.m3u8
 
 #EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony
 http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
 
 #EXTINF:-1,tvg-id="Universal HD" tvg-logo="https://image.ibb.co/c31ehm/universal.png" group-title="Entretenimiento", Universal Channel
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/75.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/76.m3u8
+
+#EXTINF:-1,tvg-id="Universal HD" tvg-logo="https://image.ibb.co/c31ehm/universal.png" group-title="Entretenimiento", Universal Channel Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/63.m3u8
 
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/prowrestling/images/8/8e/Syfy_logo.png/revision/latest?cb=20160528125827" group-title="Entretenimiento", SyFy
-http://z1.iptvmanagerpro.com/stream_42_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/62.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
@@ -114,8 +135,11 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 #EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
 
-#EXTINF:-1,tvg-id="SyFy" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png" group-title="Entretenimiento", SyFy
-http://192.95.33.104:25461/live/roku/wanherchannels/62.m3u8
+#EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/59.m3u8
+
+#EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.4
+http://192.95.33.104:25461/live/roku/wanherchannels/2257.m3u8
 
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="Entretenimiento",Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
@@ -129,6 +153,9 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chu
 #EXTINF:-1,tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
+#EXTINF:-1,tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia
+http://192.95.33.104:25461/live/roku/wanherchannels/54.m3u8
+
 #EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central
 http://192.95.33.104:25461/live/roku/wanherchannels/72.m3u8
 
@@ -138,14 +165,29 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
 #EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/321.m3u8
 
+#EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central HD
+http://192.95.33.104:25461/live/roku/wanherchannels/977.m3u8
+
+#EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment
+http://192.95.33.104:25461/live/roku/wanherchannels/64.m3u8
+
 #EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2261.m3u8
+
+#EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD Op.3
 http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
 
 #EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
 http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
 
+#EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/28.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png/revision/latest?cb=20140817065331&path-prefix=es" group-title="Entretenimiento",Fox Life
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png/revision/latest?cb=20140817065331&path-prefix=es" group-title="Entretenimiento",Fox Life Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/55.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel
 http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
@@ -153,17 +195,32 @@ http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/35.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2242.m3u8
+
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Entretenimiento",H2
 http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
 
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Entretenimiento",H2 Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Entretenimiento",H2 Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/2254.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geyWv6/animal_planet.png" group-title="Entretenimiento",Animal Planet
 http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
 
-#EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Entretenimiento",NAT_GEO
+#EXTINF:-1 tvg-logo="https://image.ibb.co/geyWv6/animal_planet.png" group-title="Entretenimiento",Animal Planet Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/31.m3u8
+
+#EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Entretenimiento",Natgeo HD
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Entretenimiento",Natgeo
+http://192.95.33.104:25461/live/roku/wanherchannels/29.m3u8
 
 #EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Entretenimiento",Nat Geo Wild
 http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
@@ -171,35 +228,74 @@ http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
 #EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Entretenimiento",Nat Geo Wild Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Entretenimiento",Nat Geo Wild Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/34.m3u8
+
 #EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg" group-title="Entretenimiento",TruTV
 http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg" group-title="Entretenimiento",TruTV Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/73.m3u8
+
+#EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg" group-title="Entretenimiento",TruTV HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2238.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Elgourmet_logo_1.png/revision/latest?cb=20151123221216" group-title="Entretenimiento",El Gourmet
 http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Elgourmet_logo_1.png/revision/latest?cb=20151123221216" group-title="Entretenimiento",El Gourmet Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/58.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Elgourmet_logo_1.png/revision/latest?cb=20151123221216" group-title="Entretenimiento",El Gourmet HD
+http://192.95.33.104:25461/live/roku/wanherchannels/999.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/10/hola-tv-600x338.jpg" group-title="Entretenimiento",Hola Tv
 http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/10/hola-tv-600x338.jpg" group-title="Entretenimiento",Hola Tv Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/973.m3u8
 
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/deda2ffadf26c0d30c8b39b2bb273934_100x100.gif" group-title="Entretenimiento",Unicable
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/deda2ffadf26c0d30c8b39b2bb273934_100x100.gif" group-title="Entretenimiento",Unicable Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/982.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.eutelsattvawards.com/dem/2015/media/logo-sundance.png" group-title="Entretenimiento",Sundace Channel
 http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.eutelsattvawards.com/dem/2015/media/logo-sundance.png" group-title="Entretenimiento",Sundace Channel Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/1579.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.eutelsattvawards.com/dem/2015/media/logo-sundance.png" group-title="Entretenimiento",Sundace Channel HD
+http://192.95.33.104:25461/live/roku/wanherchannels/980.m3u8
+
 #EXTINF:-1,tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/135px-Food_Network.svg.png" group-title="Entretenimiento", Food Network
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/24.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/1575.m3u8
 
 #EXTINF:-1,tvg-id="Discovery Channel" tvg-logo="https://imgur.com/zZJ4dXQ.png" group-title="Entretenimiento",Discovery Channel
 http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
 
+#EXTINF:-1,tvg-id="Discovery Channel" tvg-logo="https://imgur.com/zZJ4dXQ.png" group-title="Entretenimiento",Discovery Channel Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/32.m3u8
+
 #EXTINF:-1,tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo
 http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+
+#EXTINF:-1,tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo
+http://192.95.33.104:25461/live/roku/wanherchannels/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png/revision/latest?cb=20140506215312" group-title="Entretenimiento", Discovery Science
 http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png/revision/latest?cb=20140506215312" group-title="Entretenimiento", Discovery Science Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/27.m3u8
+
 #EXTINF:-1,tvg-id="Investigación Discovery" tvg-logo="https://imgur.com/8UXHyyo.png" group-title="Entretenimiento",Investigation Discovery
 http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8
+
+#EXTINF:-1,tvg-id="Investigación Discovery" tvg-logo="https://imgur.com/8UXHyyo.png" group-title="Entretenimiento",Investigation Discovery Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network
 http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8
@@ -207,8 +303,14 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/41.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network Op.4
+http://192.95.33.104:25461/live/roku/wanherchannels/2255.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel
-http://z1.iptvmanagerpro.com/stream_20_06f9fe7c469d8820ec30eaf211cc818f_1513991435.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/45.m3u8
 
 #EXTINF:-1 tvg-logo="http://es.vector.me/files/images/7/7/778508/tiin.png" group-title="Infantil",Tiin
 http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
@@ -216,8 +318,14 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
 #EXTINF:-1 tvg-logo="http://es.vector.me/files/images/7/7/778508/tiin.png" group-title="Infantil",Tiin Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://es.vector.me/files/images/7/7/778508/tiin.png" group-title="Infantil",Tiin Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/38.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?maxdimension=&quality=0.75" group-title="Infantil",Nick JR
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?maxdimension=&quality=0.75" group-title="Infantil",Nick JR Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/46.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg" group-title="Infantil",Nick
 http://185.152.66.150:25461/live/infantiles/fanstvapp/58.m3u8
@@ -225,35 +333,50 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/58.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg" group-title="Infantil",Nick Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel
-http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg" group-title="Infantil",Nick Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/43.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/1280px-Nickelodeon_logo_new.svg.png" group-title="Infantil",Nickelodeon
+http://192.95.33.104:25461/live/roku/wanherchannels/42.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Nick_2.png/revision/latest?cb=20161211190940&path-prefix=es" group-title="Infantil",Nick 2
+http://192.95.33.104:25461/live/roku/wanherchannels/1583.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel Op.2
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/10.m3u8
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/cQSPF6/DXD.png" group-title="Infantil",Disney XD
 http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cQSPF6/DXD.png" group-title="Infantil",Disney XD Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/40.m3u8
+
 #EXTINF:-1,tvg-id="Disney Jr" tvg-logo="https://image.ibb.co/cs0xJR/disney_jr.png" group-title="Infantil",Disney Jr
 http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+
+#EXTINF:-1,tvg-id="Disney Jr" tvg-logo="https://image.ibb.co/cs0xJR/disney_jr.png" group-title="Infantil",Disney Jr Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/47.m3u8
 
 #EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids
 http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
 
-#EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/11.m3u8
+#EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gKAY8R/boomerang.png" group-title="Infantil", BOOMERANG
 http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gKAY8R/boomerang.png" group-title="Infantil", BOOMERANG Op.2
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/125.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/knRO8R/TOONCAST.png" group-title="Infantil",Tooncast
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/knRO8R/TOONCAST.png" group-title="Infantil",Tooncast Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/37.m3u8
 
 #EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg" group-title="Infantil",BabyTV
 http://185.152.66.150:25461/live/infantiles/fanstvapp/66.m3u8
@@ -351,6 +474,9 @@ http://192.95.33.104:25461/live/roku/wanherchannels/176.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="" tvg-logo="https://imgur.com/dsgxyBY.png" group-title="Deportes",ESPN 2
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="" tvg-logo="https://imgur.com/dsgxyBY.png" group-title="Deportes",ESPN 2 Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/175.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="Deportes",ESPN 3
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 
@@ -365,6 +491,9 @@ http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/310.m3u8
 
 #EXTINF:-1,tvg-id="Univisión TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes",Univisión TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1,tvg-id="Univisión TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes",Univisión TDN Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/458.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jKtQNm/udn.png" group-title="Deportes", Univision Deportes Network (UDN)
 http://192.95.33.104:25461/live/roku/wanherchannels/455.m3u8
@@ -382,13 +511,13 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/255.m3u8
 
 #EXTINF:-1,tvg-id="Fox Sports" tvg-logo="https://image.ibb.co/gJcJhw/fs1.png" group-title="Deportes",Fox Sports MX 1
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/87.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/179.m3u8
 
 #EXTINF:-1,tvg-id="Fox Sports 2 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png" group-title="Deportes",Fox Sports MX 2
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/86.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/178.m3u8
 
 #EXTINF:-1,tvg-id="Fox Sports 3" tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png" group-title="Deportes",Fox Sports MX 3
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/23.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/22.m3u8
 
 #EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
