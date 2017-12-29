@@ -267,6 +267,9 @@ https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/c0zoGb/platino.png" group-title="Cine", Platino
 https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gcjFNm/dhe.png" group-title="Cine", DHE Cine
+http://192.95.33.104:25461/live/roku/wanherchannels/65.m3u8
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
 
@@ -338,6 +341,9 @@ http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/310.m3u8
 
 #EXTINF:-1,tvg-id="Univisión TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes",Univisión TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jKtQNm/udn.png" group-title="Deportes", Univision Deportes Network (UDN)
+http://192.95.33.104:25461/live/roku/wanherchannels/455.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="Deportes",Bein Sports
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/237.m3u8
