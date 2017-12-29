@@ -3,7 +3,7 @@
 #EXTINF:-1,tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
 https://www1176.playercdn.net/88/0/7KcrCsSLJQBipk6mVTDctA/1513748857/171218/282FMKVFIMCM4HT2YGKQH.mp4
 
-#EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta" group-title="Chromecast", Azteca Uno
+#EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta" "Chromecast", Azteca Uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno Op.2
