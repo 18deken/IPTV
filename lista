@@ -15,13 +15,10 @@ http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 #EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
 
-#EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/117.m3u8
+#EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV (Inestable)
+http://192.95.33.104:25461/live/roku/wanherchannels/69.m3u8
 
-#EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV Op.2
-http://142.0.43.4:25461/live/televall/televall-11/696.m3u8
-
-#EXTINF:-1,tvg-id="52 MX" tvg-logo="http://www.televalltv.net/gallery/52mx_thumb.png" group-title="TV Abierta", 52 MX
+#EXTINF:-1,tvg-id="52 MX" tvg-logo="http://www.televalltv.net/gallery/52mx_thumb.png" group-title="TV Abierta", 52 MX (Offline)
 http://142.0.43.4:25461/live/televall/televall-11/667.m3u8
 
 #EXTINF:-1,tvg-logo="https://image.ibb.co/kcZoa6/5.png" group-title="TV Abierta", Canal 5
@@ -31,6 +28,9 @@ http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
 #EXTINF:-1,tvg-id="Azteca 7" tvg-logo="https://image.ibb.co/cqpzpb/az_7.png" group-title="TV Abierta", Azteca 7
+http://192.95.33.104:25461/live/roku/wanherchannels/2248.m3u8
+
+#EXTINF:-1,tvg-id="Azteca 7" tvg-logo="https://image.ibb.co/cqpzpb/az_7.png" group-title="TV Abierta", Azteca 7 Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
 
 #EXTINF:-1,tvg-id=Telemundo" tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg" group-title="TV Abierta", Telemundo 51
@@ -66,11 +66,20 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
+#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2409.m3u8
+
+#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/75.m3u8
+
 #EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
 
 #EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
+
+#EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/61.m3u8
 
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
@@ -96,6 +105,9 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/74.m3u8
+
 #EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 
@@ -103,7 +115,7 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
 
 #EXTINF:-1,tvg-id="SyFy" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png" group-title="Entretenimiento", SyFy
-http://185.152.66.150:25461/live/peliculas-series/fanstvapp/18.m3u8
+http://192.95.33.104:25461/live/roku/wanherchannels/62.m3u8
 
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="Entretenimiento",Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
@@ -116,6 +128,9 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chu
 
 #EXTINF:-1,tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+
+#EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central
+http://192.95.33.104:25461/live/roku/wanherchannels/72.m3u8
 
 #EXTINF:-1,tvg-id="TBS" tvg-logo="https://image.ibb.co/f7GC2m/tbs.png" group-title="Entretenimiento", TBS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
@@ -273,8 +288,11 @@ http://192.95.33.104:25461/live/roku/wanherchannels/65.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC Op.3
+http://192.95.33.104:25461/live/roku/wanherchannels/11.m3u8
 
 #EXTINF:-1tvg-id="Space HD" tvg-logo="https://image.ibb.co/bLLTa6/SPACE.png" group-title="Cine", Space
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
@@ -327,11 +345,17 @@ https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://imgur.com/mimf96E.png" group-title="Deportes",ESPN
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://imgur.com/mimf96E.png" group-title="Deportes",ESPN Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/176.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="" tvg-logo="https://imgur.com/dsgxyBY.png" group-title="Deportes",ESPN 2
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="Deportes",ESPN 3
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="Deportes",ESPN 3 Op.2
+http://192.95.33.104:25461/live/roku/wanherchannels/180.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
