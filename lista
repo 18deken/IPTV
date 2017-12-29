@@ -57,6 +57,9 @@ http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unima
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6813.png?2017-12-29" group-title="Entretenimiento", TVC
+https://latamonly-lh.akamaihd.net/i/tvchd_1@578063/master.m3u8
+
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
 
@@ -255,6 +258,15 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/13.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mHs8a6/STUDIO.png" group-title="Cine", Studio Universal Op.3
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/29.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jWjihG/multipremier.png" group-title="Cine", Multipremier
+https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hqib2G/panico.png" group-title="Cine", Panico
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c0zoGb/platino.png" group-title="Cine", Platino
+https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
 
@@ -305,6 +317,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kicLX61.png" group-title="Cine",I.Sat
 http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png?2017-12-29" group-title="Deportes", TVC Deportes
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="https://imgur.com/mimf96E.png" group-title="Deportes",ESPN
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
