@@ -4,7 +4,7 @@
 https://www1176.playercdn.net/88/0/7KcrCsSLJQBipk6mVTDctA/1513748857/171218/282FMKVFIMCM4HT2YGKQH.mp4
 
 #EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca13)/index.m3u8
@@ -58,22 +58,25 @@ http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unima
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E
-http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
 
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E Op.2
-http://z1.iptvmanagerpro.com/stream_48_b27e5aad98994454091d2c228078037b_1513991435.m3u8
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
 #EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox
-http://z1.iptvmanagerpro.com/stream_8_e1e22b4b3b9feefa49e0f1ac90060637_1513991435.m3u8
-
-#EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox Op.2
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gKAY8R/boomerang.png" group-title="Infantil", BOOMERANG
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
 
 #EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
-http://z1.iptvmanagerpro.com/stream_29_e3eb6de10f0aef6af5a98f7165338c6f_1513991435.m3u8
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
 
 #EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
+
+#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+
+#EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Sony
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
 
 #EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony
 http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
@@ -85,10 +88,19 @@ http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/
 http://z1.iptvmanagerpro.com/stream_42_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 
 #EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
+
+#EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+
+#EXTINF:-1,tvg-id="SyFy" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png" group-title="Entretenimiento", SyFy
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/18.m3u8
 
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="Entretenimiento",Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
@@ -113,6 +125,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
 
 #EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
 http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png/revision/latest?cb=20140817065331&path-prefix=es" group-title="Entretenimiento",Fox Life
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel
 http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
@@ -172,33 +187,66 @@ http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/556px-Paramount_Channel.svg.png/revision/latest?cb=20151009064853&path-prefix=es" group-title="Cine", Paramount Channel
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/21.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/556px-Paramount_Channel.svg.png/revision/latest?cb=20151009064853&path-prefix=es" group-title="Cine", Paramount Channel Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mHs8a6/STUDIO.png" group-title="Cine", Studio Universal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mHs8a6/STUDIO.png" group-title="Cine", Studio Universal Op.2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mHs8a6/STUDIO.png" group-title="Cine", Studio Universal Op.3
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC" group-title="Cine",AMC
 http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
 
 #EXTINF:-1tvg-id="Space HD" tvg-logo="https://image.ibb.co/bLLTa6/SPACE.png" group-title="Cine", Space
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+
+#EXTINF:-1tvg-id="Space HD" tvg-logo="https://image.ibb.co/bLLTa6/SPACE.png" group-title="Cine", Space Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
 
 #EXTINF:-1,tvg-id="Cinecanal HD" tvg-logo="https://imgur.com/CdZQVe8.png" group-title="Cine",Cinecanal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+
+#EXTINF:-1,tvg-id="Cinecanal HD" tvg-logo="https://imgur.com/CdZQVe8.png" group-title="Cine",Cinecanal Op.2
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/107.m3u8
 
 #EXTINF:-1,tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8
+
+#EXTINF:-1,tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(Golden_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gzy38R/TNT.png" group-title="Cine", TNT
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gzy38R/TNT.png" group-title="Cine", TNT España
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/14.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f2s8a6/tcm.png" group-title="Cine", TCM
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f2s8a6/tcm.png" group-title="Cine", TCM Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
 
 #EXTINF:-1,tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+
+#EXTINF:-1,tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine", De Pelicula
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine", De Pelicula Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kicLX61.png" group-title="Cine",I.Sat
@@ -215,9 +263,6 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN Op.2
-http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN Op.2
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/310.m3u8
@@ -247,7 +292,13 @@ http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/86.m3u8
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/23.m3u8
 
 #EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+
+#EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO Op.2
 http://jazoora.net:8000/live/Shahid1/Shahid1/3303.m3u8
+
+#EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO 2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 
 #EXTINF:-1,tvg-id="Fox Premium Series (E)" tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series
 (01)/index.m3u8http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/12.m3u8
@@ -256,6 +307,9 @@ http://jazoora.net:8000/live/Shahid1/Shahid1/3303.m3u8
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/13.m3u8
 
 #EXTINF:-1,tvg-id="Fox Action HD" tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+
+#EXTINF:-1,tvg-id="Fox Action HD" tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action Op.2
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/16.m3u8
 
 #EXTINF:-1,tvg-id="Fox Cinéma" tvg-logo="https://image.ibb.co/hVnGv6/fox_cinema.png" group-title="Premium", Fox Premium Cinema
