@@ -130,15 +130,27 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Entretenimiento",H2
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Entretenimiento",H2 Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/geyWv6/animal_planet.png" group-title="Entretenimiento",Animal Planet
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
 
 #EXTINF:-1 tvg-logo="http://stowerenergy.com/wp-content/uploads/2015/09/nat-geo-logo.jpg" group-title="Entretenimiento",NAT_GEO
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Entretenimiento",Nat Geo Wild
+http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="Entretenimiento",Nat Geo Wild Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg" group-title="Entretenimiento",TruTV
@@ -159,32 +171,74 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
 #EXTINF:-1,tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/135px-Food_Network.svg.png" group-title="Entretenimiento", Food Network
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/24.m3u8
 
+#EXTINF:-1,tvg-id="Discovery Channel" tvg-logo="https://imgur.com/zZJ4dXQ.png" group-title="Entretenimiento",Discovery Channel
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+
+#EXTINF:-1,tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png/revision/latest?cb=20140506215312" group-title="Entretenimiento", Discovery Science
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+
+#EXTINF:-1,tvg-id="Investigación Discovery" tvg-logo="https://imgur.com/8UXHyyo.png" group-title="Entretenimiento",Investigation Discovery
+http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network
+http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel
 http://z1.iptvmanagerpro.com/stream_20_06f9fe7c469d8820ec30eaf211cc818f_1513991435.m3u8
 
 #EXTINF:-1 tvg-logo="http://es.vector.me/files/images/7/7/778508/tiin.png" group-title="Infantil",Tiin
+http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
+
+#EXTINF:-1 tvg-logo="http://es.vector.me/files/images/7/7/778508/tiin.png" group-title="Infantil",Tiin Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?maxdimension=&quality=0.75" group-title="Infantil",Nick JR
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg" group-title="Infantil",Nick
+http://185.152.66.150:25461/live/infantiles/fanstvapp/58.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg" group-title="Infantil",Nick Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ehrjF6/DISNEY.png" group-title="Infantil",Disney Channel Op.2
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cQSPF6/DXD.png" group-title="Infantil",Disney XD
+http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
+
+#EXTINF:-1,tvg-id="Disney Jr" tvg-logo="https://image.ibb.co/cs0xJR/disney_jr.png" group-title="Infantil",Disney Jr
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+
+#EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids
+http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
 
 #EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gKAY8R/boomerang.png" group-title="Infantil", BOOMERANG
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gKAY8R/boomerang.png" group-title="Infantil", BOOMERANG Op.2
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/125.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/knRO8R/TOONCAST.png" group-title="Infantil",Tooncast
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+
+#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg" group-title="Infantil",BabyTV
+http://185.152.66.150:25461/live/infantiles/fanstvapp/66.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/556px-Paramount_Channel.svg.png/revision/latest?cb=20151009064853&path-prefix=es" group-title="Cine", Paramount Channel
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/21.m3u8
