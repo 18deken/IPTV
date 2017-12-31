@@ -50,6 +50,9 @@ http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unima
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6813.png?2017-12-29" group-title="Entretenimiento", TVC (Cast)
 https://latamonly-lh.akamaihd.net/i/tvchd_1@578063/master.m3u8
 
@@ -211,8 +214,14 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax (Cast)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/knRO8R/TOONCAST.png" group-title="Infantil",Tooncast  (Cast)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/knRO8R/TOONCAST.png" group-title="Infantil",Tooncast (Cast)
 http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6761.png?2017-12-31" group-title="Infantil",Fix & Foxi (Cast)
+https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6761.png?2017-12-31" group-title="Infantil",Fix & Foxi HD (Cast)
+https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple118/v4/a9/91/f0/a991f036-a8e0-466d-ad64-32b0b6b49fd3/source/1200x630bb.jpg" group-title="Infantil",BabyTV (Cast)
 http://185.152.66.150:25461/live/infantiles/fanstvapp/66.m3u8
@@ -274,11 +283,20 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/16.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f2s8a6/tcm.png" group-title="Cine", TCM Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6809.png?2017-12-31" group-title="Cine", MC (Cast)
+https://latamonly-lh.akamaihd.net/i/mchd_1@576706/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6809.png?2017-12-31" group-title="Cine", MC HD (Cast)
+https://latamonly-lh.akamaihd.net/i/mchd_1@576706/index_1080_av-p.m3u8
+
 #EXTINF:-1,tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
 
 #EXTINF:-1,tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+
+#EXTINF:-1,tvg-id="Cine Mexicano" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6736.png?2017-12-31" group-title="Cine",Cine Mexicano (Cast)
+https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/index_480_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine", De Pelicula (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
@@ -288,6 +306,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kicLX61.png" group-title="Cine",I.Sat
 http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6791.png?2017-12-31" group-title="Cine", Film Box
+https://namericalatam-lh.akamaihd.net/i/filmboxart_1@198553/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png?2017-12-29" group-title="Deportes", TVC Deportes (Cast)
 https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
@@ -364,6 +385,12 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5610_7_133975.png" group-title="Musica",Bandamax
 http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6737.png?2017-12-31" group-title="Musica", Video Rola
+https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6737.png?2017-12-31" group-title="Musica", Video Rola HD
+https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg" group-title="Noticias", CNN (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
