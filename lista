@@ -3,9 +3,6 @@
 #EXTINF:-1,tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
 https://www1176.playercdn.net/88/0/7KcrCsSLJQBipk6mVTDctA/1513748857/171218/282FMKVFIMCM4HT2YGKQH.mp4
 
-#EXTINF:-1,Comedy Central
-http://iptv4k.noip.me:7879/live/mansour/mansour/7634.ts
-
 #EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno (Cast)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
@@ -53,7 +50,7 @@ http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unima
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision (Cast)
 https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6813.png?2017-12-29" group-title="Entretenimiento", TVC (Cast)
@@ -109,8 +106,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chu
 #EXTINF:-1,tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
-#EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central (Offline)
-http://192.95.33.104:25461/live/roku/wanherchannels/72.m3u8
+#EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central (Cast)
+http://185.152.66.150:25461/live/fanstvapp/variedades/9.m3u8
 
 #EXTINF:-1,tvg-id="TBS" tvg-logo="https://image.ibb.co/f7GC2m/tbs.png" group-title="Entretenimiento", TBS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
