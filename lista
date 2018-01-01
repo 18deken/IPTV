@@ -1,47 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
 https://www1176.playercdn.net/88/0/7KcrCsSLJQBipk6mVTDctA/1513748857/171218/282FMKVFIMCM4HT2YGKQH.mp4
 
-#EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno (Cast)
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno (Cast)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
-#EXTINF:-1,tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno Op.2
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca13)/index.m3u8
 
-#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas (Cast)
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas (Cast)
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
-#EXTINF:-1,tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas Op.2 (Cast)
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas Op.2 (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
 
-#EXTINF:-1,tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV (Offline)
+#EXTINF:-1 tvg-id="Imagen Televisión" tvg-logo="https://image.ibb.co/mBudFG/imagen.png" group-title="TV Abierta", Imagen TV (Offline)
 
-#EXTINF:-1,tvg-id="Canal 5" tvg-logo="https://image.ibb.co/kcZoa6/5.png" group-title="TV Abierta", Canal 5 (Cast)
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://image.ibb.co/kcZoa6/5.png" group-title="TV Abierta", Canal 5 (Cast)
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
-#EXTINF:-1,tvg-id="Canal 5" tvg-logo="https://image.ibb.co/kcZoa6/5.png" group-title="TV Abierta", Canal 5 Op.2 (Cast)
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://image.ibb.co/kcZoa6/5.png" group-title="TV Abierta", Canal 5 Op.2 (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
 
-#EXTINF:-1,tvg-id="Azteca 7" tvg-logo="https://image.ibb.co/cqpzpb/az_7.png" group-title="TV Abierta", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://image.ibb.co/cqpzpb/az_7.png" group-title="TV Abierta", Azteca 7
 http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
 
-#EXTINF:-1,tvg-id=Telemundo" tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg" group-title="TV Abierta", Telemundo 51 (Cast)
+#EXTINF:-1 tvg-id=Telemundo" tvg-logo="https://image.ibb.co/nAJXnm/telemundo_51.jpg" group-title="TV Abierta", Telemundo 51 (Cast)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1,tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV
+#EXTINF:-1 tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV
 http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 
-#EXTINF:-1,tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV Op.2
+#EXTINF:-1 tvg-id="Gala tv" tvg-logo="https://image.ibb.co/h19jhm/gala.png" group-title="TV Abierta", Gala TV Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 
-#EXTINF:-1,tvg-id="Once TV" tvg-logo="https://image.ibb.co/n71Z06/once.png" group-title="TV Abierta", Once TV (Cast)
+#EXTINF:-1 tvg-id="Once TV" tvg-logo="https://image.ibb.co/n71Z06/once.png" group-title="TV Abierta", Once TV (Cast)
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-id="Adn 40" tvg-logo="https://image.ibb.co/mYfLNw/adn.png" group-title="TV Abierta", adn 40 (Cast)
+#EXTINF:-1 tvg-id="Adn 40" tvg-logo="https://image.ibb.co/mYfLNw/adn.png" group-title="TV Abierta", adn 40 (Cast)
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,tvg-id="a+" tvg-logo="https://image.ibb.co/mkvbvG/a.png" group-title="TV Abierta", a+ (Cast)
+#EXTINF:-1 tvg-id="a+" tvg-logo="https://image.ibb.co/mkvbvG/a.png" group-title="TV Abierta", a+ (Cast)
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dB2BV6/unimas.png" group-title="TV Abierta", UniMás
@@ -56,34 +56,34 @@ https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6813.png?2017-12-29" group-title="Entretenimiento", TVC (Cast)
 https://latamonly-lh.akamaihd.net/i/tvchd_1@578063/master.m3u8
 
-#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E (Cast)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
 
-#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E Op.2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
-#EXTINF:-1,tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox (Cast)
+#EXTINF:-1 tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
 
-#EXTINF:-1,tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX (Cast)
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
 
-#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel (Cast)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
 
-#EXTINF:-1,tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel Op.2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/WARNER.png" group-title="Entretenimiento", Warner Channel Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 
-#EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Sony (Cast)
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Sony (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
 
-#EXTINF:-1,tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://image.ibb.co/ko3QNm/SONY.png" group-title="Entretenimiento", Canal Sony
 http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
 
-#EXTINF:-1,tvg-id="Universal HD" tvg-logo="https://image.ibb.co/c31ehm/universal.png" group-title="Entretenimiento", Universal Channel (Offline)
+#EXTINF:-1 tvg-id="Universal HD" tvg-logo="https://image.ibb.co/c31ehm/universal.png" group-title="Entretenimiento", Universal Channel (Offline)
 
 
-#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/prowrestling/images/8/8e/Syfy_logo.png/revision/latest?cb=20160528125827" group-title="Entretenimiento", SyFy (Offline)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/prowrestling/images/8/8e/Syfy_logo.png/revision/latest?cb=20160528125827" group-title="Entretenimiento", SyFy (Offline)
 
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
@@ -91,37 +91,37 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 
-#EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series (Cast)
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 
-#EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.2
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="Entretenimiento",Antena 3 (Cast)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1,tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="Entretenimiento", A3Series (Cast)
+#EXTINF:-1 tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="Entretenimiento", A3Series (Cast)
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1,tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="Entretenimiento",TV3 (Cast)
+#EXTINF:-1 tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="Entretenimiento",TV3 (Cast)
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
 
-#EXTINF:-1,tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia (Cast)
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Logo_Distrito_Comedia.png",Distrito Comedia (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
-#EXTINF:-1,tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central (Cast)
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://image.ibb.co/c0v0oR/comedyce.png" group-title="Entretenimiento", Comedy Central (Cast)
 http://185.152.66.150:25461/live/fanstvapp/variedades/9.m3u8
 
-#EXTINF:-1,tvg-id="TBS" tvg-logo="https://image.ibb.co/f7GC2m/tbs.png" group-title="Entretenimiento", TBS
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://image.ibb.co/f7GC2m/tbs.png" group-title="Entretenimiento", TBS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
 
-#EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD
 http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
 
-#EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD (Cast)
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD (Cast)
 http://185.152.66.150:25461/live/fanstvapp/variedades/9.m3u8
 
-#EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
 http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png/revision/latest?cb=20140817065331&path-prefix=es" group-title="Entretenimiento",Fox Life (Cast)
@@ -166,19 +166,19 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.eutelsattvawards.com/dem/2015/media/logo-sundance.png" group-title="Entretenimiento",Sundace Channel
 http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
 
-#EXTINF:-1,tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/135px-Food_Network.svg.png" group-title="Entretenimiento", Food Network (Offline)
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/135px-Food_Network.svg.png" group-title="Entretenimiento", Food Network (Offline)
 http://192.95.33.104:25461/live/roku/wanherchannels/1575.m3u8
 
-#EXTINF:-1,tvg-id="Discovery Channel" tvg-logo="https://imgur.com/zZJ4dXQ.png" group-title="Entretenimiento",Discovery Channel (Cast)
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://imgur.com/zZJ4dXQ.png" group-title="Entretenimiento",Discovery Channel (Cast)
 http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
 
-#EXTINF:-1,tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo (Cast)
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo (Cast)
 http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png/revision/latest?cb=20140506215312" group-title="Entretenimiento", Discovery Science (Cast)
 http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
 
-#EXTINF:-1,tvg-id="Investigación Discovery" tvg-logo="https://imgur.com/8UXHyyo.png" group-title="Entretenimiento",Investigation Discovery (Cast)
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-logo="https://imgur.com/8UXHyyo.png" group-title="Entretenimiento",Investigation Discovery (Cast)
 http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mUNfoR/CN.png" group-title="Infantil",Cartoon Network (Cast)
@@ -208,10 +208,10 @@ http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/cQSPF6/DXD.png" group-title="Infantil",Disney XD (Cast)
 http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
 
-#EXTINF:-1,tvg-id="Disney Jr" tvg-logo="https://image.ibb.co/cs0xJR/disney_jr.png" group-title="Infantil",Disney Jr (Cast)
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://image.ibb.co/cs0xJR/disney_jr.png" group-title="Infantil",Disney Jr (Cast)
 http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
 
-#EXTINF:-1,tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids (Cast)
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png" group-title="Infantil",Discovery Kids (Cast)
 http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gKAY8R/boomerang.png" group-title="Infantil", BOOMERANG (Cast)
@@ -268,13 +268,13 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
 #EXTINF:-1tvg-id="Space HD" tvg-logo="https://image.ibb.co/bLLTa6/SPACE.png" group-title="Cine", Space HD (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
 
-#EXTINF:-1,tvg-id="Cinecanal HD" tvg-logo="https://imgur.com/CdZQVe8.png" group-title="Cine",Cinecanal (Cast)
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-logo="https://imgur.com/CdZQVe8.png" group-title="Cine",Cinecanal (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
 
-#EXTINF:-1,tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden (Cast)
+#EXTINF:-1 tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8
 
-#EXTINF:-1,tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden Op.2
+#EXTINF:-1 tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(Golden_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gzy38R/TNT.png" group-title="Cine", TNT
@@ -295,13 +295,13 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/index_480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6809.png?2017-12-31" group-title="Cine", MC HD (Cast)
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/index_1080_av-p.m3u8
 
-#EXTINF:-1,tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax (Cast)
+#EXTINF:-1 tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
 
-#EXTINF:-1,tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax Op.2
+#EXTINF:-1 tvg-id="Cinemax (O)" tvg-logo="https://imgur.com/PkrtxHN.png" group-title="Cine",Cinemax Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
 
-#EXTINF:-1,tvg-id="Cine Mexicano" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6736.png?2017-12-31" group-title="Cine",Cine Mexicano (Cast)
+#EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6736.png?2017-12-31" group-title="Cine",Cine Mexicano (Cast)
 https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/index_480_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Cine", De Pelicula (Cast)
@@ -331,12 +331,12 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
-#EXTINF:-1,tvg-id="Univisión TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes",Univisión TDN
+#EXTINF:-1 tvg-id="Univisión TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes",Univisión TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jKtQNm/udn.png" group-title="Deportes", Univision Deportes Network (Offline)
 
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="Deportes",Bein Sports (Offline)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="Deportes",Bein Sports (Offline)
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/satcesc.com/web/wp-content/uploads/2016/02/canal-f1-latinoamerica.jpg?resize=200%2C200&ssl=1" group-title="Deportes",F1 Latinoamerica
 http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
@@ -347,31 +347,31 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jKtQNm/udn.png" group-title="Deportes", Univision Deportes Network (Offline)
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/iscar96eqasdad/255.m3u8
 
-#EXTINF:-1,tvg-id="Fox Sports" tvg-logo="https://image.ibb.co/gJcJhw/fs1.png" group-title="Deportes",Fox Sports 1 (Offline)
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://image.ibb.co/gJcJhw/fs1.png" group-title="Deportes",Fox Sports 1 (Offline)
 
-#EXTINF:-1,tvg-id="Fox Sports 2 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png" group-title="Deportes",Fox Sports 2 (Offline)
+#EXTINF:-1 tvg-id="Fox Sports 2 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png" group-title="Deportes",Fox Sports 2 (Offline)
 
-#EXTINF:-1,tvg-id="Fox Sports 3" tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png" group-title="Deportes",Fox Sports 3 (Offline)
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png" group-title="Deportes",Fox Sports 3 (Offline)
 
-#EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO (Cast)
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
 
-#EXTINF:-1,tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO 2 (Cast)
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO 2 (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 
-#EXTINF:-1,tvg-id="Fox Premium Series (E)" tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series (Offline)
+#EXTINF:-1 tvg-id="Fox Premium Series (E)" tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series (Offline)
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/12.m3u8
 
-#EXTINF:-1,tvg-id="Fox Movies HD" tvg-logo="https://image.ibb.co/iCu72m/fox_movies.png" group-title="Premium",Fox Premium Movies (Offline)
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="https://image.ibb.co/iCu72m/fox_movies.png" group-title="Premium",Fox Premium Movies (Offline)
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/13.m3u8
 
-#EXTINF:-1,tvg-id="Fox Action HD" tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action (Cast)
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
 
-#EXTINF:-1,tvg-id="Fox Cinéma" tvg-logo="https://image.ibb.co/hVnGv6/fox_cinema.png" group-title="Premium", Fox Premium Cinema (Offline)
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="https://image.ibb.co/hVnGv6/fox_cinema.png" group-title="Premium", Fox Premium Cinema (Offline)
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/15.m3u8
 
-#EXTINF:-1,tvg-id="Fox Classics" tvg-logo="https://image.ibb.co/bLVKF6/Fox_classics.png" group-title="Premium",Fox Premium Classics (Offline)
+#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="https://image.ibb.co/bLVKF6/Fox_classics.png" group-title="Premium",Fox Premium Classics (Offline)
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dApRTR/MTV.png" group-title="Musica",MTV
@@ -401,7 +401,7 @@ https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg" group-title="Noticias", CNN (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
 
-#EXTINF:-1,tvg-id="Adn 40" tvg-logo="https://image.ibb.co/mYfLNw/adn.png" group-title="Noticias", adn 40 (Cast)
+#EXTINF:-1 tvg-id="Adn 40" tvg-logo="https://image.ibb.co/mYfLNw/adn.png" group-title="Noticias", adn 40 (Cast)
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/d4SSnm/foro_tv.png" group-title="Noticias",Foro TV (Cast)
