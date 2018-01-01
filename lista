@@ -88,6 +88,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN (Cast)
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+
 #EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 
@@ -114,6 +117,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
 
 #EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD
 http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+
+#EXTINF:-1,tvg-id="E! Entertainment Television" tvg-logo="https://image.ibb.co/cMqda6/E.png" group-title="Entretenimiento",E! Entertainment HD (Cast)
+http://185.152.66.150:25461/live/fanstvapp/variedades/9.m3u8
 
 #EXTINF:-1,tvg-id="Lifetime" tvg-logo="https://image.ibb.co/kYiWv6/lifetime.png" group-title="Entretenimiento",Lifetime
 http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
