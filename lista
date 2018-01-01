@@ -88,7 +88,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN (Cast)
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 
 #EXTINF:-1,tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series (Cast)
@@ -313,7 +313,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kicLX61.png" group-title="Cine",I.Sat
 http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6791.png?2017-12-31" group-title="Cine", Film Box
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6791.png?2017-12-31" group-title="Cine", Film Box (Cast)
 https://namericalatam-lh.akamaihd.net/i/filmboxart_1@198553/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png?2017-12-29" group-title="Deportes", TVC Deportes (Cast)
@@ -392,10 +392,10 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5610_7_133975.png" group-title="Musica",Bandamax
 http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6737.png?2017-12-31" group-title="Musica", Video Rola
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6737.png?2017-12-31" group-title="Musica", Video Rola (Cast)
 https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/index_480_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6737.png?2017-12-31" group-title="Musica", Video Rola HD
+#EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6737.png?2017-12-31" group-title="Musica", Video Rola HD (Cast)
 https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg" group-title="Noticias", CNN (Cast)
