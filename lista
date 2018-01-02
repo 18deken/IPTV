@@ -277,6 +277,9 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8
 #EXTINF:-1 tvg-id="Golden HD" tvg-logo="https://imgur.com/MhdnevY.png" group-title="Cine", Golden Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(Golden_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/fx-movies-m.png" group-title="Cine", FXM
+http://23.237.22.2/LIVE/H01/CANAL440/PROFILE03.m3u8?authorization=knife.handshake
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gzy38R/TNT.png" group-title="Cine", TNT
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 
