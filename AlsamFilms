@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
 https://www1176.playercdn.net/88/0/7KcrCsSLJQBipk6mVTDctA/1513748857/171218/282FMKVFIMCM4HT2YGKQH.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dDciXjS0SK66Wy3yDD0JYjGg5lS.jpg", Feliz día de tu muerte
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dDciXjS0SK66Wy3yDD0JYjGg5lS.jpg" group-title="Misterio", Feliz día de tu muerte
 https://www1202.playercdn.net/87/0/aaAxPNzRroltWfgy4JUJFg/1515132973/180102/951FN2ZKQE4USMD2LSVWJ.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ubfdf0cbsGrMkMdu2uNU5BsQrxE.jpg", Votos de amor
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ubfdf0cbsGrMkMdu2uNU5BsQrxE.jpg" group-title="Amor", Votos de amor
 https://www368.playercdn.net/87/2/qnJVpZFqWLt0XVVFUnFEbQ/1515133275/171001/670FK358ZOULJXGDJO5T9.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dNNEiXCR80BWn9BjIrcI8lZPMhw.jpg", El Muñeco de Nieve
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dNNEiXCR80BWn9BjIrcI8lZPMhw.jpg" group-title="Drama", El Muñeco de Nieve
 https://www1092.playercdn.net/87/0/NQkqU7Q74m5NlSL5h2QhUA/1515133452/180103/202FN3A1B7E3X2Z0YGDB2.mp4
