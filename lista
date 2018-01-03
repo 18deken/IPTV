@@ -92,7 +92,10 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="Entretenimiento",AXN Op.2
 http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series (Cast)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series
+http://23.237.22.2/LIVE/H01/CANAL266/PROFILE03.m3u8?authorization=knife.handshake
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.2
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/15.m3u8
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://image.ibb.co/ddai8R/tnt_s.png" group-title="Entretenimiento", TNT Series Op.2
@@ -132,7 +135,7 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg" group-title="Entretenimiento",History Channel (Cast)
-http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+http://23.237.22.2/LIVE/H01/CANAL375/PROFILE03.m3u8?authorization=knife.handshake
 
 #EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg" group-title="Entretenimiento",H2 (Cast)
 http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
@@ -332,6 +335,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="Deportes",ESPN 3
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="Deportes",ESPN 3 Op.2
+http://23.237.22.2/LIVE/H01/CANAL520/PROFILE03.m3u8?authorization=knife.handshake
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes",TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
@@ -363,20 +369,23 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO 2 (Cast)
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 
-#EXTINF:-1 tvg-id="Fox Premium Series (E)" tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series (Offline)
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/12.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series
+http://23.237.22.2/LIVE/H01/CANAL420/PROFILE03.m3u8?authorization=knife.handshake
 
-#EXTINF:-1 tvg-id="Fox Movies HD" tvg-logo="https://image.ibb.co/iCu72m/fox_movies.png" group-title="Premium",Fox Premium Movies (Offline)
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/13.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iCu72m/fox_movies.png" group-title="Premium",Fox Premium Movies
+http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshake
 
-#EXTINF:-1 tvg-id="Fox Action HD" tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action (Cast)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/j4kY8R/foxfam.png" group-title="Premium", Fox Premium Family
+http://23.237.22.2/LIVE/H01/CANAL418/PROFILE03.m3u8?authorization=knife.handshake
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
 
-#EXTINF:-1 tvg-id="Fox Cinéma" tvg-logo="https://image.ibb.co/hVnGv6/fox_cinema.png" group-title="Premium", Fox Premium Cinema (Offline)
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hVnGv6/fox_cinema.png" group-title="Premium", Fox Premium Cinema (Offline)
 http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/15.m3u8
 
-#EXTINF:-1 tvg-id="Fox Classics" tvg-logo="https://image.ibb.co/bLVKF6/Fox_classics.png" group-title="Premium",Fox Premium Classics (Offline)
-http://149.56.241.86:25461/live/Grupovaaalliscar961sdss/rg5frIavncg4ygsdq43123f/14.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bLVKF6/Fox_classics.png" group-title="Premium",Fox Premium Classics
+http://23.237.22.2/LIVE/H01/CANAL424/PROFILE03.m3u8?authorization=knife.handshake
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dApRTR/MTV.png" group-title="Musica",MTV
 http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
