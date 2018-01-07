@@ -396,6 +396,10 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://defleppard.primarywave.netdna-cdn.com/wp-content/uploads/2015/11/vh1-2.jpg" group-title="Musica",VH1
 http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Metal http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Rock http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/ritmoson_latino.png?itok=nlibB5QW" group-title="Musica",Ritmoson
 http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
 
