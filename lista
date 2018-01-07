@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
-https://www1176.playercdn.net/88/0/7KcrCsSLJQBipk6mVTDctA/1513748857/171218/282FMKVFIMCM4HT2YGKQH.mp4
 
 #EXTINF:-1 tvg-id="El Trece" tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno 
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
@@ -251,6 +250,9 @@ https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/c0zoGb/platino.png" group-title="Cine", Platino 
 https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/1/1e/Europa_Europa_HD.png/revision/latest?cb=20161006151540&path-prefix=es" group-title="Cine", Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gcjFNm/dhe.png" group-title="Cine", DHE Cine (Offline)
 http://192.95.33.104:25461/live/roku/wanherchannels/65.m3u8
 
@@ -348,9 +350,11 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://image.ibb.co/gJcJhw/fs1.png" group-title="Deportes",Fox Sports 1
 http://200.78.215.85:8010/play/a09g
 
-#EXTINF:-1 tvg-id="Fox Sports 2 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png" group-title="Deportes",Fox Sports 2 (Offline)
+#EXTINF:-1 tvg-id="Fox Sports 2 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png" group-title="Deportes",Fox Sports 2
+http://200.78.215.85:8010/play/a0ay
 
-#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png" group-title="Deportes",Fox Sports 3 (Offline)
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://image.ibb.co/d8kAvG/fs3usa.png" group-title="Deportes",Fox Sports 3
+http://200.78.215.85:8010/play/a08m
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO 
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
@@ -370,9 +374,14 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://defleppard.primarywave.netdna-cdn.com/wp-content/uploads/2015/11/vh1-2.jpg" group-title="Musica",VH1
 http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Metal http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/c/c6/20180102233549%21Music_Choice_logo.png" group-title="Musica", Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Rock http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/c/c6/20180102233549%21Music_Choice_logo.png" group-title="Musica", Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/c/c6/20180102233549%21Music_Choice_logo.png" group-title="Musica", Regional Mexicano
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/ritmoson_latino.png?itok=nlibB5QW" group-title="Musica",Ritmoson
 http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
