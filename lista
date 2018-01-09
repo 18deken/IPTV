@@ -58,17 +58,11 @@ https://latamonly-lh.akamaihd.net/i/tvchd_1@578063/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E (Cast)
-http://iptvchannel.ml/LIVE/J02/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E (PC)
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox (Cast)
-http://iptvchannel.ml/LIVE/J02/45.m3u8
 
 #EXTINF:-1 tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
@@ -432,9 +426,6 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hzXrv6/FOX.png" group-title="Entretenimiento",Fox (Cast)
-http://iptvchannel.ml/LIVE/J02/46.m3u8
-
 #EXTINF:-1 tvg-id="FX HD" tvg-logo="https://image.ibb.co/iWRjF6/FX.png" group-title="Entretenimiento", FX
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
 
@@ -715,9 +706,6 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://image.ibb.co/gJcJhw/fs1.png" group-title="Deportes",Fox Sports 1
 http://200.78.215.85:8010/play/a09g
 
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://image.ibb.co/gJcJhw/fs1.png" group-title="Deportes",Fox Sports 1 (Cast)
-http://iptvchannel.ml/LIVE/J02/52.m3u8
-
 #EXTINF:-1 tvg-id="Fox Sports 2 tvg-logo="https://image.ibb.co/ksMYFG/foxs2.png" group-title="Deportes",Fox Sports 2
 http://200.78.215.85:8010/play/a0ay
 
@@ -730,18 +718,10 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://image.ibb.co/dZRJa6/hbo.png" group-title="Premium", HBO 2 
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kSTOa6/fox_series.png" group-title="Premium", Fox Premium Series (Cast)
-http://iptvchannel.ml/LIVE/J02/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kyKJ8R/fox_action.png" group-title="Premium", Fox Premium Action (Cast)
-http://iptvchannel.ml/LIVE/J02/46.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/j4kY8R/foxfam.png" group-title="Premium", Fox Premium Family
-http://iptvchannel.ml/LIVE/J02/49.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dApRTR/MTV.png" group-title="Musica",MTV
 http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
 
@@ -905,9 +885,3 @@ http://107.22.125.82/midwest-wozzfmaac-ibc2
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/a38214q.png" group-title="Radio", GotRadio Rock
 http://edge1.peta.live365.net/b85426_64aac
-
-#EXTINF:-1 tvg-logo="http://www.cinesargentinos.com.ar/poster/7011-guerra-de-papas-2.jpg?1504880280" group-title="Películas", Guerra de papás 2
-https://oload.stream/stream/DQ4zoBpELgc~1515384014~189.223.0.0~wCe-l-Lb?mime=true
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/56W222OvoZTmwdT3lXWrG3GPyRf.jpg" group-title="Películas", Ole Ferdinand
-https://oload.stream/stream/592VYnOQwIA~1515383624~189.223.0.0~ID9bLHTe?mime=true
