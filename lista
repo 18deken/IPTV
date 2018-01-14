@@ -59,6 +59,15 @@ https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision Op.2
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision SD
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_800_androidtab.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eMU3cm/univision.png" group-title="TV Abierta", Univision HD
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_1600_androidtab.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hUhKhm/A_E.png" group-title="Entretenimiento", A&E (Cast)
 http://channels.premiumtutv.com/stream_48_sk_st.m3u8 
 
@@ -148,7 +157,7 @@ http://channels.premiumtutv.com/stream_43_sk_st.m3u8
 #EXTINF:-1 tvg-logo="http://www.unicable.tv/wp-content/themes/Newspaper/images/small_logo.png" group-title="Entretenimiento",Unicable HD (Cast)
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dB2BV6/unimas.png" group-title="TV Abierta", UniMás
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dB2BV6/unimas.png" group-title="Entretenimiento", UniMas
 http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
 
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6813.png?2017-12-29" group-title="Entretenimiento", TVC (Cast)
