@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=, Prueba
-http://latamliveclarovideo.akamaized.net/Content/hls_kr/Live/Channel(MAX_UP_HD)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno (Cast)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
