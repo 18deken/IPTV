@@ -1,12 +1,11 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/i3G1pm/ALSAM_TV.png", Alsam TV
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hHNA3R/AZUNO.png" group-title="TV Abierta", Azteca Uno (Cast)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bKdApb/estrellas.png" group-title="TV Abierta",Las Estrellas (Cast)
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cqpzpb/az_7.png" group-title="TV Abierta", Azteca 7 (Cast)
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/n71Z06/once.png" group-title="TV Abierta", Once TV (Cast)
 http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
